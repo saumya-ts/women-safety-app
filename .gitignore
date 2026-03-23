@@ -1,0 +1,25 @@
+# IDE files
+.idea/
+*.iml
+
+# Python virtual env
+.venv/
+
+# Database
+db.sqlite3
+
+# Media & recordings
+audio_recordings/
+media/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Executables
+*.exe
+
+# Env files
+.env
+
+backend/SheCare/ffmpeg.exe
